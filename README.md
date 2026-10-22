@@ -5,8 +5,8 @@
 - HTML  [Watch: Shradha Khapra](https://www.youtube.com/watch?v=HcOc7P5BMi4&pp=ygUZaHRtbCBmdWxsIGNvdXJzZSBpbiBoaW5kaQ%3D%3D)
 - CSS   [Watch: Shradha Khapra](https://www.youtube.com/watch?v=ESnrn1kAD4E&pp=ygUYY3NzIGZ1bGwgY291cnNlIGluIGhpbmRp)
 - JavaScript
-    - [Watch Part-1: Hitesh Choudhary](https://www.youtube.com/watch?v=q8EevlEpQ2A&pp=ygUjZ2l0IGFuZCBnaXRodWIgZnVsbCBjb3Vyc2UgaW4gaGluZGnSBwkJNgwBhyohjO8%3D)
-    - [Watch Part-2: Hitesh Choudhary](https://www.youtube.com/watch?v=_TjtAyMkiTI&pp=ygUjY2hhaSBqcyBwYXJ0IDIgZnVsbCBjb3Vyc2UgaW4gaGluZGk%3D)
+    - [Watch Part-1: Hitesh Choudhary](https://www.youtube.com/watch?v=sscX432bMZo&pp=ygUOY2hhaSBqcyBwYXJ0IDE%3D)
+    - [Watch Part-2: Hitesh Choudhary](https://www.youtube.com/watch?v=_TjtAyMkiTI&pp=ygUOY2hhaSBqcyBwYXJ0IDI%3D)
 - React 
     - [Watch Part-1: Hitesh Choudhary](https://www.youtube.com/watch?v=FxgM9k1rg0Q&pp=ygUmY2hhaSByZWFjdCBwYXJ0IDEgZnVsbCBjb3Vyc2UgaW4gaGluZGk%3D)
     - [Watch Full-Fledged on React: Coder Dost](https://www.youtube.com/watch?v=6l8RWV8D-Yo&pp=ygUlcmVhY3QgY29kZXIgZG9zdCBmdWxsIGNvdXJzZSBpbiBoaW5kaQ%3D%3D)
